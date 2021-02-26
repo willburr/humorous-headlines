@@ -27,7 +27,7 @@ This section needs to be run to train any models, and downloads/imports/sets up 
 
 ## Data Augmentation and Vocab Preparation
 
-This section also needs to be run to train any models - it prepares all of the data and runs a lot of housekeeping methods
+This section also needs to be run to train any models - it prepares all of the data and runs a lot of housekeeping methods.
 
 ## 1: Approach 1 - Pre-Trained Representations
 
@@ -61,6 +61,8 @@ This model needs the `Project Setup` and `Data Augmentation and Vocab Preparatio
 ## 2.1 Baselines
 
 We have some initial baselines given in the skeleton code, and then we implemented two neural models:
+* Bi-directional LSTM
+* Bi-directional LSTM with Attention
 
 ## 2.2 Neural Models
 
@@ -77,4 +79,4 @@ This final section has the evaluation tests between our best performing models f
 - Confusion Matrices
 - F1 Score
 
-To run these, you need to train models 1.2 and 2.2 as explained how to in their sections
+To run these, you need to train models 1.2 and 2.2 as explained in their sections.
