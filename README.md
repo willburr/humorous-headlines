@@ -62,7 +62,7 @@ This model needs the `Project Setup` and `Data Augmentation and Vocab Preparatio
 
 We have some initial baselines given in the skeleton code, and then we implemented two neural models:
 
-##2.2 Neural Models
+## 2.2 Neural Models
 
 These models use the bi-directional LSTM from part 1.1, so the cell with the definition of this model needs to be run.
 
