@@ -2,8 +2,6 @@
 
 Our approach to Task 2 (determining the funnier of two edited headlines) in https://competitions.codalab.org/competitions/20970.
 
-We tackled Task 2.
-
 *Important note:*
 
 Any of our models for section 1 can be run independently of each other, however all of the cells in the Project Setup and Data Augmentation & Vocab Preparation sections needs to be run as a prerequisite. 
@@ -58,11 +56,13 @@ This model needs the `Project Setup` and `Data Augmentation and Vocab Preparatio
 
 ## 2: Approach 2: No Pre-Trained Representations
 
-## 2.1 Baselines
-
 We have some initial baselines given in the skeleton code, and then we implemented two neural models:
 * Bi-directional LSTM
 * Bi-directional LSTM with Attention
+
+## 2.1 Baselines
+
+The baselines given can be run as long as the first cell under the section is run. These are probabilistic models to serve as a comparison to the neural models.
 
 ## 2.2 Neural Models
 
