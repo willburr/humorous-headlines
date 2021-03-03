@@ -1,5 +1,7 @@
 # Humorous Headlines
 
+The notebook with our sbmission can be found here: https://colab.research.google.com/github/willburr/humorous-headlines/blob/main/main.ipynb.
+
 Our approach to Task 2 (determining the funnier of two edited headlines) in https://competitions.codalab.org/competitions/20970.
 
 *Important note:*
